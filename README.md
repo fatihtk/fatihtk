@@ -9,7 +9,7 @@ Since 2014 I've been studying and growing data analyze and creating modern and e
 Currently improving my Neural Network skills: CNN, RNN and AutoEncoders.<br />
 BTW, if you´re looking for a Neural network Examples, take a look at this [Analyze Examples](https://github.com/fatihtk).
 
-### My most recent posts on [ResearchGate](https://www.researchgate.net/profile/Fatih_Teke) 😃🧾
+### My most projects and works are private but recent posts on [ResearchGate](https://www.researchgate.net/profile/Fatih_Teke) 😃🧾
 <!-- BLOG-POST-LIST:START -->
 - [Hypothesis Testing](https://www.researchgate.net/publication/349195406_Hypothesis_Testing_v1)
 <!-- BLOG-POST-LIST:END -->
